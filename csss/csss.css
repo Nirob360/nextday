@@ -1,0 +1,33 @@
+*{
+    
+    box-sizing:border-box;
+}
+#demo{
+    background:red;
+    width:200px;
+    height:250px;
+    border-radius: 1px 0px 166px;
+    position:relative;
+    left: -215px;
+    transition: all 1s;
+    opacity: 0;
+    transform:rotate(0deg);
+}
+#on{
+   
+    background:rgb(5, 121, 121);
+    color:white;
+    font-weight:700;
+    padding:10px;
+    border-radius:3px;
+
+}
+#of{
+   
+    background:rgb(5, 121, 121);
+    color:white;
+    font-weight:700;
+    padding:10px;
+    border-radius:3px;
+
+}
